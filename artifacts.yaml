@@ -1,0 +1,3 @@
+my-new-model:
+  path: models/my-model-file.h5
+  type: model
